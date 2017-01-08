@@ -1,5 +1,5 @@
 # KluchaOS
-real time operating system for NXP LPC2106
+RTOS for LPC2106
 
 ## AUTHORS
 [wojtekel](http://mojemiejsce-wojtekel.rhcloud.com)
